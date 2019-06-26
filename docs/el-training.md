@@ -223,7 +223,7 @@
 - specを書くための準備をしましょう
   - `spec/spec_helper.rb` 、 `spec/rails_helper.rb` を用意しましょう
 - system specをタスク機能に対して書きましょう
-- ~~Circle CIなどのCIツールを導入して、Slackに通知するようにしましょう
+- ~~Circle CIなどのCIツールを導入して、Slackに通知するようにしましょう~~
   - （後述）
 - 参考書籍：https://leanpub.com/everydayrailsrspec-jp
 
