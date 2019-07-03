@@ -15,6 +15,9 @@
 
 [![クリエイティブ・コモンズ・ライセンス](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)  
 
+## 謝辞
+[万葉さんのカリキュラム](https://github.com/everyleaf/el-training)をFolkさせていただきました。感謝申し上げます。
+
 ## Language Supports
 
 - 繁体字(zh_TW)
